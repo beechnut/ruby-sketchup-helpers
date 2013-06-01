@@ -17,9 +17,9 @@ Assumptions
 
 These helpers make a lot of assumptions. They assume:
 
-[ ] You have installed [rvm](https://rvm.io/rvm/install/)
-[ ] You have used rvm to install Ruby 1.8.7.
-[ ] You have set up Sketchup to use Ruby 1.8.7 using the following commands (adapted from [this StackOverflow thread][so]):
++ You have installed [rvm](https://rvm.io/rvm/install/)
++ You have used rvm to install Ruby 1.8.7.
++ You have set up Sketchup to use Ruby 1.8.7 using the following commands (adapted from [this StackOverflow thread][so]):
   + `cd /Applications/Google\ SketchUp\ 8/SketchUp.app/Contents/Frameworks/Ruby.framework/Versions/Current`
   + `ln -s  /System/Library/Frameworks/Ruby.framework/Headers`
   + `ln -fs /System/Library/Frameworks/Ruby.framework/Ruby`
